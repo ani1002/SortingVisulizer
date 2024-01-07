@@ -8,6 +8,11 @@ Here also a sound feature also added .
 Bubbol sort
 Insertion Sort
 Selection sort
+Link of the project is https://aniketvisulizer.netlify.app/
+
+
+
+
 
 
 
